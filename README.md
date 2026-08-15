@@ -1,6 +1,6 @@
 # hello-pr-practice
 
-A smple Python project used to practice opening a GitHub pull request.
+A simple Python project used to practice opening a GitHub pull request.
 
 ## Usage
 
